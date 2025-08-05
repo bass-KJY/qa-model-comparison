@@ -17,7 +17,7 @@ This project compares the performance of a **Machine Reading Comprehension (MRC)
 |-----------------|------------------------|---------------------------|
 | Data Type       | Structured table data  | Natural language text     |
 | Preprocessing   | array → string         | string (as is)            |
-| Metrics         |        Accuracy, Precision, Recall, F1 Score       |
+| Metrics         | Accuracy, Precision, Recall, F1 Score |
 | Context Format  | Table title & content  | Textual paragraph context |
 
 ## Summary of Results
